@@ -1,0 +1,5 @@
+package com.cyf.challengeyourfriends;
+
+public class ChooseFriendDialog extends DialogFragment{
+
+}

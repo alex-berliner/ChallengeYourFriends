@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;listView1&apos; in &apos;com.cyf.challengeyourfriends.R.id&apos; to &apos;mainmenu_listview&apos;&#x0D;&#x0A;- Original project: &apos;ChallengeYourFriends&apos;&#x0D;&#x0A;- Original element: &apos;com.cyf.challengeyourfriends.R.id.listView1&apos;&#x0D;&#x0A;- Renamed element: &apos;com.cyf.challengeyourfriends.R.id.mainmenu_listview&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="true" description="Rename field &apos;listView1&apos;" flags="589830" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/gen&lt;com.cyf.challengeyourfriends{R.java[R[id^listView1" name="mainmenu_listview" references="true" setter="false" stamp="1412702701540" textual="false" version="1.0"/>
+</session>

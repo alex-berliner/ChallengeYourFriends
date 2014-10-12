@@ -27,6 +27,22 @@
             android:label="@string/title_activity_login"
             android:windowSoftInputMode="adjustResize|stateVisible" >
         </activity>
+        <activity
+            android:name=".MenuActivity"
+            android:label="@string/title_activity_menu" >
+        </activity>
+        <activity
+            android:name=".ViewChallenges"
+            android:label="@string/title_activity_view_challenges" >
+        </activity>
+        <activity
+            android:name=".ChallengeFriend"
+            android:label="@string/title_activity_challenge_friend" >
+        </activity>
+        <activity
+            android:name=".ChooseFriendFrag"
+            android:label="@string/title_activity_choose_friend_frag" >
+        </activity>
     </application>
 
     <!-- To auto-complete the email text field in the login form with the user's emails -->

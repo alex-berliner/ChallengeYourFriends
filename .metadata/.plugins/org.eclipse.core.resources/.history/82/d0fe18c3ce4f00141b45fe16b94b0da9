@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Challenge your Friends</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="twitter">Please log in to Twitter</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_activity_view_challenges">ViewChallenges</string>
+
+</resources>
