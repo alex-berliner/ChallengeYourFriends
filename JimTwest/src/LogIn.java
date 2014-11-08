@@ -8,6 +8,9 @@ import java.io.*;
 import java.net.URI;
 
 
+
+
+
 public class LogIn {
 	
 	public void logIn(Twitter twitter) throws TwitterException, IOException {
@@ -75,8 +78,6 @@ public class LogIn {
 	                System.exit(-1);
 	            }
 	        }
-			
-
 		
 	}
 
