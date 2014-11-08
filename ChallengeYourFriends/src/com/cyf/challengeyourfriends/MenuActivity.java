@@ -4,8 +4,8 @@ import java.util.ArrayList;
 
 import android.app.Activity;
 import android.content.Context;
-import android.content.Intent;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -56,6 +56,49 @@ public class MenuActivity extends Activity implements OnItemClickListener {
 
 	@Override
 	public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+		Log.w("TEST","test");
+		Log.w("TEST","test");
+		Log.w("TEST","test");
+		Log.w("TEST","test");
+		Log.w("TEST","test");
+		Log.w("TEST","test");
+		Log.w("TEST","test");
+		Log.w("TEST","test");
+		Log.w("TEST","test");
+		Log.w("TEST","test");
+		Log.w("TEST","test");
+		Log.w("TEST","test");
+		Log.w("TEST","test");
+		Log.w("TEST","test");
+		Log.w("TEST","test");
+		Log.w("TEST","test");
+		Log.w("TEST","test");
+		Log.w("TEST","test");
+		Log.w("TEST","test");
+		Log.w("TEST","test");
+		Log.w("TEST","test");
+		Log.w("TEST","test");
+		Log.w("TEST","test");
+		Log.w("TEST","test");
+		Log.w("TEST","test");
+		Log.w("TEST","test");
+		Log.w("TEST","test");
+		Log.w("TEST","test");
+		Log.w("TEST","test");
+		Log.w("TEST","test");
+		Log.w("TEST","test");
+		Log.w("TEST","test");
+		Log.w("TEST","test");
+		Log.w("TEST","test");
+		Log.w("TEST","test");
+		Log.w("TEST","test");
+		Log.w("TEST","test");
+		Log.w("TEST","test");
+		Log.w("TEST","test");
+		Log.w("TEST","test");
+		Log.w("TEST","test");
+		Log.w("TEST","test");
+		Log.w("TEST","test");
 		switch(position){
 		case 0://view challenges
 //			Intent intent = new Intent(this, LoginActivity.class);
