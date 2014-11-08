@@ -11,17 +11,25 @@ import java.util.*;
 
 
 public class test {
+	
+	public static ConfigurationBuilder setCB()
+	{
+		ConfigurationBuilder cb = new ConfigurationBuilder();
+		
+		cb.setDebugEnabled(true);
+		cb.setOAuthConsumerKey("GQ4KveeL45kZvX4wnQXVrhRAs");
+		cb.setOAuthConsumerSecret("RU67euqxYe6ZFZK5RR5lh5nukwP49Ah33qKD6CFbcTDL8XyUcO");
+		
+		return cb;
+	}
+	
 	public static void main(String [] args) throws TwitterException, IOException
 	{
 		Scanner in = new Scanner(System.in);
 		boolean createdChallenge = true;
 		
 
-		ConfigurationBuilder cb = new ConfigurationBuilder();
-		
-		cb.setDebugEnabled(true);
-		cb.setOAuthConsumerKey("GQ4KveeL45kZvX4wnQXVrhRAs");
-		cb.setOAuthConsumerSecret("RU67euqxYe6ZFZK5RR5lh5nukwP49Ah33qKD6CFbcTDL8XyUcO");
+		ConfigurationBuilder cb = setCB();
 		
 		ChallengeArchive archive = new ChallengeArchive();
 		

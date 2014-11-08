@@ -30,7 +30,11 @@ public class Challenge {
 
 	public String challengeTweet()
 	{
-		String tweet = " has " + numOfDays + " days to complete the #" + challengeName + "Challenge. #CYF";
+		String tweet;
+		if(link != null)
+			tweet = " has " + numOfDays + " days to complete the #" + challengeName + "Challenge. " + link + " #CYF";
+		else
+			tweet = " has " + numOfDays + " days to complete the #" + challengeName + "Challenge. #CYF";
 		return tweet;
 	}
 	
