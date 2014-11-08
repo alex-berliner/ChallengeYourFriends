@@ -1,9 +1,0 @@
-package com.cyf.challengeyourfriends;
-
-import android.app.Fragment;
-import android.os.Bundle;
-import android.view.Menu;
-import android.view.MenuItem;
-
-public class ChooseFriendFrag extends Fragment {
-}
