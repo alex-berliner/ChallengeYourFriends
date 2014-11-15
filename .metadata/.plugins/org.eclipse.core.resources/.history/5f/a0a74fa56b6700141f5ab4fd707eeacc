@@ -1,0 +1,7 @@
+package com.cyf.challengeyourfriends;
+
+import java.io.File;
+
+public class FriendMan {
+	private File fileFriendsList;
+}

@@ -10,8 +10,16 @@
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1412867393164_7" label="Window Working Set" name="Aggregate for window 1412867393164"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1413134940598_8" label="Window Working Set" name="Aggregate for window 1413134940598"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1413135049698_9" label="Window Working Set" name="Aggregate for window 1413135049698"/>
+<<<<<<< HEAD
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1414667385272_10" label="Window Working Set" name="Aggregate for window 1414667385272"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1414667516239_11" label="Window Working Set" name="Aggregate for window 1414667516239"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1414667794698_12" label="Window Working Set" name="Aggregate for window 1414667794698"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1414668115321_13" label="Window Working Set" name="Aggregate for window 1414668115321"/>
+=======
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1415464994142_10" label="Window Working Set" name="Aggregate for window 1415464994142"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1415465688072_11" label="Window Working Set" name="Aggregate for window 1415465688071"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1415466416680_12" label="Window Working Set" name="Aggregate for window 1415466416680"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1415466812025_13" label="Window Working Set" name="Aggregate for window 1415466812025"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1415471308423_14" label="Window Working Set" name="Aggregate for window 1415471308423"/>
+>>>>>>> origin/master
 </workingSetManager>

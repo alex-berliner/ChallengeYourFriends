@@ -1,0 +1,15 @@
+package com.cyf.challengeyourfriends;
+
+import java.io.File;
+
+import android.content.Context;
+
+public class FriendMan {
+	private File fileFriendsList;
+	private String friendsListName = "friendsList.txt";
+	
+	public FriendMan(Context context){
+		fileFriendsList = new File(context.getFilesDir(), friendsListName);
+		
+	}
+}

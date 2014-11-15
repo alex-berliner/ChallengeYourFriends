@@ -1,0 +1,12 @@
+package com.cyf.challengeyourfriends;
+
+import java.io.File;
+import android.app.Activity;
+
+public class FriendMan {
+	private File fileFriendsList;
+	
+	public FriendMan(Activity activity){
+		
+	}
+}
